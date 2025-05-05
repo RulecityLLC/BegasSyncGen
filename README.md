@@ -4,8 +4,8 @@ Sync generator replacement for Bega's Battle hardware.  So that Bega's Battle wi
 # Introduction
 For a full explanation, see http://www.rulecity.com/begas/ .
 
-# PCBs
-I created the PCB with Kicad v5.  Newer version of KiCad should work fine.
+# PCB
+I created the PCB with KiCad v5.  I tested the files on KiCad v8 and they seem to work fine.
 
 # VHDL
 I've included the VHDL source code programs I wrote for the CPLD.  I built with Xilinx ISE 14.7 which, last I checked, can be obtained for free as a linux VM that runs fine under Windows in VirtualBox.
