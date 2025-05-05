@@ -1,0 +1,11 @@
+NET csync_prime_out			LOC="P06";
+NET hsync2_prime_out			LOC="P10";
+NET vsync2_prime_out			LOC="P13";
+NET clk14_3native				LOC="P22" | BUFG=CLK;
+NET lm1881csync_prime		LOC="P23" | BUFG=CLK;
+NET sgblk_prime_out			LOC="P64";
+//NET test_output				LOC="P87"	 ;
+NET lm1881field_isTop		LOC="P89";
+NET led_sync_is_from_ntsc	LOC="P91"	 ;
+NET led_sync_is_generated	LOC="P94"	 ;
+NET subcarrier_out			LOC="P97"	 ;
