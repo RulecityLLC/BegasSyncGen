@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name cpld)(type Legacy)(uri ${KIPRJMOD}/symbols/XC95144XL-5TQG100C.lib)(options "")(descr ""))
+)
